@@ -119,8 +119,7 @@ DIVIDE(
 ## 📁 Project Files
 
 - `README.md` — Project documentation
-- `ecommerce-sales-dashboard.png` — Dashboard screenshot
-- `.pbix` — Interactive Power BI report
+- `ecommerce-sales-dashboard.png` — Dashboard screenshot and preview
 
 ## 👩‍💻 Author
 
